@@ -6,3 +6,4 @@
     * https://pypi.org/project/logyca/
     * https://pypi.org/project/logyca-postgres/
     * https://pypi.org/project/logyca-azure-storage-blob/
+    * https://pypi.org/project/logyca-pagination/
